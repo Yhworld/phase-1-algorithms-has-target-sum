@@ -13,7 +13,7 @@ console.log(hasTargetSum([1,2,5], 4))
 /* 
   Write the Big O time complexity of your function here
      
-        0(n)
+        0(n²)
 */
 
 
